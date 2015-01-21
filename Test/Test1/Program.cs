@@ -21,5 +21,9 @@ namespace Test1
         {
 
         }
+
+        static void test()
+        {
+        }
     }
 }
