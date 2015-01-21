@@ -21,10 +21,5 @@ namespace Test1
         {
 
         }
-
-        static void testMethod()
-        {
-
-        }
     }
 }
